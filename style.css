@@ -1,0 +1,16 @@
+hr{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    
+}
+h2 {
+color: #962d2d;
+}
+h3{
+    color: indigo;
+}
+body{
+    background-color: #d5ecc2;
+}
